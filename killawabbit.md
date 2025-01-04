@@ -7,7 +7,7 @@ My alias draws inspiration from a mix of humor, history, and pop culture. Here a
 ### 🐇 Monty Python's "Killer Rabbit"
 The legendary "Killer Rabbit of Caerbannog" from *Monty Python and the Holy Grail* represents unexpected strength and ingenuity. This seemingly harmless rabbit proves to be a deadly force, much like how creativity and problem-solving can overcome the toughest challenges.
 
-![Monty Python Killer Rabbit](https://tse4.mm.bing.net/th?id=OIP.D5rv8xe0HKpUBVJlDusGuAHaF7&pid=Api)
+[![Monty Python Killer Rabbit](https://tse4.mm.bing.net/th?id=OIP.D5rv8xe0HKpUBVJlDusGuAHaF7&pid=Api)](https://en.wikipedia.org/wiki/Rabbit_of_Caerbannog)
 
 ### 🎭 Elmer Fudd's "Kill the Wabbit"
 This playful nod comes from Elmer Fudd's operatic performance in *What's Opera, Doc?*. His iconic line "Kill the Wabbit" highlights the absurdity and humor in his relentless pursuit of Bugs Bunny.
@@ -17,7 +17,7 @@ This playful nod comes from Elmer Fudd's operatic performance in *What's Opera, 
 ### 📜 Medieval Marginalia: "Killer Rabbits"
 Inspired by whimsical illustrations from medieval manuscripts, these "killer rabbits" often appear defeating knights and hunters, turning the expected power dynamics upside down. They reflect the humor and creativity of the medieval imagination.
 
-[![Manuscript Killer Rabbit](https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_794,w_800,h_533/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fmentalfloss%2F01g002cwpwpr7eym5yrv.jpg)](https://en.wikipedia.org/wiki/Rabbits_and_hares_in_art)
+[![Manuscript Killer Rabbit](https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_794,w_800,h_533/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fmentalfloss%2F01g002cwpwpr7eym5yrv.jpg)](https://blogs.bl.uk/digitisedmanuscripts/2021/06/killer-rabbits.html)
 
 ### Further Reading
 Here are some great resources to learn more about these Medieval Marginalia "killer rabbits":
