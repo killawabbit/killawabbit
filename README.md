@@ -1,7 +1,10 @@
 # Welcome to Killawabbit's GitHub! 🐇⚔️
 
 ## About Me
-Hi! I'm **Killawabbit**, a curious tech enthusiast and a history buff with a passion for storytelling and creative problem-solving. My alias draws inspiration from multiple sources of comedy, history, and technology:
+Hi! I'm **Killawabbit**, a curious tech enthusiast and a history buff with a passion for storytelling and creative problem-solving. 
+
+##What's s killawabbit?
+If you're interested, my alias draws inspiration from multiple sources of comedy, history, and technology:
 
 - 🎥 **Monty Python and the Holy Grail**: Like the "killer rabbit," my work often combines unexpected strength and ingenuity, tackling challenges with humor and efficiency.
 - 🐰 **Elmer Fudd's "Kill the Wabbit"**: A playful nod to the classic Looney Tunes, reflecting my lighthearted approach to solving complex problems.
