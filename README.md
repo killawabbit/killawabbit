@@ -12,6 +12,16 @@ If you're interested, my alias draws inspiration from multiple sources of comedy
 
 📜 **Medieval Marginalia**: Inspired by whimsical depictions of rabbits overpowering knights in illuminated manuscripts, I embrace creativity, surprise, and a historical twist in both my work and hobbies.
 
+### Check it out:
+Here are some great resources to learn more about the "killer rabbits" and their role in medieval manuscripts:
+
+- **[British Library Blog](https://blogs.bl.uk/digitisedmanuscripts/2021/06/killer-rabbits.html)**: Discusses and shows examples of medieval rabbits attacking humans in manuscripts.
+- **[Open Culture](https://www.openculture.com/2019/03/killer-rabbits-in-medieval-manuscripts-why-so-many-drawings-in-the-margins-depict-bunnies-going-bad.html)**: Analyzes why so many medieval marginalia show rabbits in aggressive roles.
+- **[DailyArt Magazine](https://www.dailyartmagazine.com/killer-rabbits-in-medieval-manuscripts/)**: Explores the violent side of rabbits in medieval illustrations.
+- **[Mental Floss](https://www.mentalfloss.com/posts/medieval-killer-rabbits)**: Discusses why medieval artists depicted violent rabbits in the margins of manuscripts.
+
+Enjoy diving into the world of medieval "killer rabbits"!
+
 ## My Interest Areas
 I’m passionate about exploring technology, creativity, and problem-solving. Here are a few areas that capture my interest:
 
