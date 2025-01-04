@@ -4,13 +4,23 @@
 Hi! I'm **Killawabbit**, a curious tech enthusiast and a history buff with a passion for storytelling and creative problem-solving.
 
 ## Why killawabbit?
-If you're interested, my alias draws inspiration from multiple sources of comedy, history, and technology:
 
-🎥 **Monty Python and the Holy Grail**: Like the "killer rabbit," my work often combines unexpected strength and ingenuity, tackling challenges with humor and efficiency.
+My alias draws inspiration from a mix of humor, history, and pop culture. Here are the main influences:
 
-🐰 **Elmer Fudd's "Kill the Wabbit"**: A playful nod to the classic Looney Tunes, reflecting my lighthearted approach to solving complex problems.
+### 🐇 Monty Python's "Killer Rabbit"
+The legendary "Killer Rabbit of Caerbannog" from *Monty Python and the Holy Grail* represents unexpected strength and ingenuity. This seemingly harmless rabbit proves to be a deadly force, much like how creativity and problem-solving can overcome the toughest challenges.
 
-📜 **Medieval Marginalia**: Inspired by whimsical depictions of rabbits overpowering knights in illuminated manuscripts, I embrace creativity, surprise, and a historical twist in both my work and hobbies.
+![Monty Python Killer Rabbit](https://tse4.mm.bing.net/th?id=OIP.D5rv8xe0HKpUBVJlDusGuAHaF7&pid=Api)
+
+### 🎭 Elmer Fudd's "Kill the Wabbit"
+This playful nod comes from Elmer Fudd's operatic performance in *What's Opera, Doc?*. His iconic line "Kill the Wabbit" highlights the absurdity and humor in his relentless pursuit of Bugs Bunny.
+
+[![Elmer Fudd in Opera Costume](https://tse3.mm.bing.net/th?id=OIP.OLlAjmrmarPi-S17bUysYwHaEK&pid=Api)](https://www.youtube.com/watch?v=KZTE9MDoaLs)
+
+### 📜 Medieval Marginalia: "Killer Rabbits"
+Inspired by whimsical illustrations from medieval manuscripts, these "killer rabbits" often appear defeating knights and hunters, turning the expected power dynamics upside down. They reflect the humor and creativity of the medieval imagination.
+
+![Medieval Killer Rabbits Manuscript](https://upload.wikimedia.org/wikipedia/commons/9/9d/Killer_rabbit_illuminated_manuscript.jpg)
 
 ### Check it out:
 Here are some great resources to learn more about the "killer rabbits" and their role in medieval manuscripts:
