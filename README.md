@@ -1,10 +1,12 @@
 # Welcome to Killawabbit's GitHub! 🐇⚔️
 
+![Why killawabbit?](killawabbit.png)
+
 ## About Me
 Hi! I'm **Killawabbit**, a curious tech enthusiast and a history buff with a passion for storytelling and creative problem-solving.
 
-[![Why killawabbit?](killawabbit.png)](why-killawabbit.md)  
-**Why killawabbit? Get the full story…**
+Want to know why I chose the name **Killawabbit**?  
+[**Get the full story here.**](killawabbit.md)
 
 ## My Interest Areas
 I’m passionate about exploring technology, creativity, and problem-solving. Here are a few areas that capture my interest:
@@ -27,4 +29,4 @@ Feel free to explore my repositories or reach out if you're interested in collab
 - 📜 History and storytelling
 - 🛠️ Creative problem-solving
 
-Thanks for stopping by! And remember: **never underestimate the rabbit.** 🐇
+Thanks for stopping by! And remember: [**never underestimate the rabbit.**](killawabbit.md)
