@@ -15,7 +15,7 @@ This playful nod comes from Elmer Fudd's operatic performance in *What's Opera, 
 ### 📜 Medieval Marginalia: "Killer Rabbits"
 Inspired by whimsical illustrations from medieval manuscripts, these "killer rabbits" often appear defeating knights and hunters, turning the expected power dynamics upside down. They reflect the humor and creativity of the medieval imagination.
 
-![Manuscript Killer Rabbit](https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_794,w_800,h_533/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fmentalfloss%2F01g002cwpwpr7eym5yrv.jpg)]
+[![Manuscript Killer Rabbit](https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_794,w_800,h_533/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fmentalfloss%2F01g002cwpwpr7eym5yrv.jpg)]
 
 ### Further Reading
 Here are some great resources to learn more about the inspirations behind "killawabbit":
