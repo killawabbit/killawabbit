@@ -1,5 +1,7 @@
 # Why killawabbit?
 
+You're ready to go down the rabbit hole?
+
 My alias draws inspiration from a mix of humor, history, and pop culture. Here are the main influences:
 
 ### 🐇 Monty Python's "Killer Rabbit"
