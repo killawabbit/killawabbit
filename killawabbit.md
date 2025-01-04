@@ -26,3 +26,6 @@ Here are some great resources to learn more about these Medieval Marginalia "kil
 - **[Open Culture](https://www.openculture.com/2019/03/killer-rabbits-in-medieval-manuscripts-why-so-many-drawings-in-the-margins-depict-bunnies-going-bad.html)**: Analyzes why so many medieval marginalia show rabbits in aggressive roles.
 - **[DailyArt Magazine](https://www.dailyartmagazine.com/killer-rabbits-in-medieval-manuscripts/)**: Explores the violent side of rabbits in medieval illustrations.
 - **[Mental Floss](https://www.mentalfloss.com/posts/medieval-killer-rabbits)**: Discusses why medieval artists depicted violent rabbits in the margins of manuscripts.
+
+## BTW
+Yes, it's also a small nod to the line **"Follow the white rabbit"** from one of my favorite movies, [*The Matrix*](https://en.wikipedia.org/wiki/The_Matrix), which in itself references [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland). But I felt it was beginning to be too meta — and if you're anything like me, you probably got that yourself...
