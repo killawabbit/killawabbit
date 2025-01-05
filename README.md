@@ -1,7 +1,5 @@
 # Welcome to Killawabbit's GitHub! 🐇⚔️
 
-![Why killawabbit?](killawabbit.png)
-
 ## About Me
 Hi! I'm **Killawabbit**, a curious tech enthusiast and a history buff with a passion for storytelling and creative problem-solving.
 
